@@ -2,9 +2,9 @@
 - 👀 I’m interested in exploring
 - 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on any projects
-- 📫 you can reach ne
+- 📫 boo
 - 😄 happy
-- ⚡ Fun fact: i am noob
+- ⚡ Fun
 
 <!---
 aritrabhatta/aritrabhatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
